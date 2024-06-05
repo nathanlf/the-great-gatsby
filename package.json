@@ -11,10 +11,18 @@
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "getToken": "gatsby-source-google-docs-token"
   },
   "dependencies": {
+    "@mdx-js/mdx": "^3.0.1",
+    "@mdx-js/react": "^3.0.1",
+    "dotenv": "^16.4.5",
     "gatsby": "^5.13.5",
+    "gatsby-plugin-mdx": "^5.13.1",
+    "gatsby-source-filesystem": "^5.13.1",
+    "gatsby-source-google-docs": "^2.4.3",
+    "gatsby-transformer-remark": "^6.13.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
