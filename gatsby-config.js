@@ -21,7 +21,8 @@ module.exports = {
         path: `${__dirname}/blog`,
       }
     },
-    "gatsby-plugin-mdx"
+    "gatsby-plugin-mdx",
+    //"gatsby-mdx-fix"
     // {
     //   resolve: "gatsby-source-google-docs",
     //   options: {
