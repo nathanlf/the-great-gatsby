@@ -8,7 +8,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: "My First Gatsby Site!",
+    title: "Internal Newsletter",
     siteUrl: `https://www.yourdomain.tld`,
   },
   plugins: [
@@ -17,12 +17,17 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        name: `blog`,
-        path: `${__dirname}/blog`,
+        name: `newsletter-issues`,
+        path: `${__dirname}/newsletter-issues`,
       }
     },
-    "gatsby-plugin-mdx",
-    //"gatsby-mdx-fix"
+    {
+      resolve: "gatsby-plugin-mdx",
+      options: {
+        extensions: [`.mdx`, `.md`]
+      }
+    },
+    //"gatsby-mdx-fix",
     // {
     //   resolve: "gatsby-source-google-docs",
     //   options: {

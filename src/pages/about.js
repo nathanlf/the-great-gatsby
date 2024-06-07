@@ -5,17 +5,16 @@ import Layout from '../components/layout'
 // Step 2: Define your component
 const AboutPage = () => {
   return (
-    <Layout pageTitle="About Me">
-      <p>Hi there! I'm the proud creator of this site, which I built with Gatsby.</p>
-      <h3>hello worl d</h3>
+    <Layout pageTitle="About">
+      <p>This web application was built to serve as a new home for RENCI's internal newsletter.</p>
+      <p>Feel free to view newsletters from the past, search for keywords, or check out this month's edition!</p>
     </Layout>
   )
 }
 
 export const Head = () => (
   <>
-    <title>About Me!</title>
-    <meta name="description" content="Your description" />
+    <title>About</title>
   </>
 )
   
