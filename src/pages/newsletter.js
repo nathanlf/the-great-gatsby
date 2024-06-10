@@ -6,11 +6,12 @@ import Seo from '../components/seo'
 //import NewestEdition from "../../newsletter-issues/internal-newsletter-v4-i5.mdx"
 
 const NewsletterPage = ( {data} ) => {
+    console.log(data);
     return (
-        <Layout pageTitle="Newest Edition">
-          <section dangerouslySetInnerHTML={{ __html: data.html }} itemProp="articleBody" />
-        </Layout>
-      )
+      <Layout pageTitle="Newest Edition">
+        <section dangerouslySetInnerHTML={{ __html: data.html }} itemProp="articleBody" />
+      </Layout>
+    )
 }
 
 export const query = graphql`
