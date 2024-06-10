@@ -1,23 +1,23 @@
 import * as React from 'react'
-// import { graphql } from 'gatsby'
+import { graphql } from 'gatsby'
 import Layout from '../components/layout'
 import Seo from '../components/seo'
 //import { MDXRenderer } from "gatsby-mdx-fix"
-import NewestEdition from "../../newsletter-issues/internal-newsletter-v4-i5.mdx"
+//import NewestEdition from "../../newsletter-issues/internal-newsletter-v4-i5.mdx"
 
-// {children} ? instead of MDXRenderer?
-const NewsletterPage = () => {
+const NewsletterPage = ( {data} ) => {
     return (
         <Layout pageTitle="Newest Edition">
-          <NewestEdition />
+          <section dangerouslySetInnerHTML={{ __html: data.html }} itemProp="articleBody" />
         </Layout>
       )
 }
 
 export const query = graphql`
   query {
-    mdx(frontmatter: {slug: {eq: "newsletter-v4-i1"}}) {
+    markdownRemark(frontmatter: {slug: {eq: "newsletter-v4-i5"}}) {
       id
+      html
     }
   }
 `

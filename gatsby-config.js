@@ -2,9 +2,13 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 
+// import * as dotenv from 'dotenv'
+
 // require("dotenv").config({
 //   path: `.env.${process.env.NODE_ENV}`,
 // });
+
+// dotenv.config({path: '.env'});
 
 module.exports = {
   siteMetadata: {
@@ -12,6 +16,7 @@ module.exports = {
     siteUrl: `https://www.yourdomain.tld`,
   },
   plugins: [
+    "gatsby-transformer-remark",
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
     {
@@ -19,12 +24,6 @@ module.exports = {
       options: {
         name: `newsletter-issues`,
         path: `${__dirname}/newsletter-issues`,
-      }
-    },
-    {
-      resolve: "gatsby-plugin-mdx",
-      options: {
-        extensions: [`.mdx`, `.md`]
       }
     },
     //"gatsby-mdx-fix",

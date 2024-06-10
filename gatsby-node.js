@@ -1,19 +1,16 @@
 const path = require("path")
-const postTemplate = path.resolve(`./src/templates/post.jsx`)
+const postTemplate = path.resolve(`./src/templates/issue.js`) // replaced post.jsx with issue.js - plugin-mdx to transformer-remark
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
 
   const result = await graphql(`
     query {
-      allMdx {
+      allMarkdownRemark {
         nodes {
           id
           frontmatter {
             slug
-          }
-          internal {
-            contentFilePath
           }
         }
       }
@@ -21,11 +18,11 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   `)
 
   if (result.errors) {
-    reporter.panicOnBuild('Error loading MDX result', result.errors)
+    reporter.panicOnBuild('Error loading MD result', result.errors)
   }
 
   // Create blog post pages.
-  const posts = result.data.allMdx.nodes
+  const posts = result.data.allMarkdownRemark.nodes
 
   // you'll call `createPage` for each result
   posts.forEach(node => {
@@ -33,8 +30,8 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       // As mentioned above you could also query something else like frontmatter.title above and use a helper function
       // like slugify to create a slug
       path: node.frontmatter.slug,
-      // Provide the path to the MDX content file so webpack can pick it up and transform it into JSX
-      component: `${postTemplate}?__contentFilePath=${node.internal.contentFilePath}`,      
+      // changed from `${postTemplate}?__contentFilePath=${node.internal.contentFilePath}` to postTemplate
+      component: postTemplate,      
       context: { id: node.id },
     })
   })

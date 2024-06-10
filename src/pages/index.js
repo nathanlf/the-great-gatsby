@@ -6,6 +6,9 @@ import Seo from '../components/seo'
 import { Link } from 'gatsby'
 import { navLinkText } from '../components/layout.module.css'
 
+// TODO set newest edition link to point to newest edition each month--automate? document either way
+// maybe keep track of a newest edition global variable / slug?
+
 // Step 2: Define your component
 const IndexPage = () => {
   return (
@@ -13,7 +16,7 @@ const IndexPage = () => {
       <p>Welcome to the RENCI Internal Newsletter Web Application!</p>
       <div>
         <span>Check out our newest edition here! </span>
-        <Link to="/newsletter" className={navLinkText}>
+        <Link to="/newsletter-v4-i5/" className={navLinkText}>
           Visit
         </Link>
       </div>

@@ -1,0 +1,27 @@
+import React from "react"
+import { graphql } from "gatsby"
+import Layout from "../components/layout"
+// import { Link } from "gatsby"
+
+// const shortcodes = { Link } // Provide common components here
+
+export default function NewsletterIssue({ data }) {
+  return (
+    <Layout pageTitle={data.markdownRemark.frontmatter.title}>
+      <h1>{data.markdownRemark.frontmatter.date}</h1>
+      <section dangerouslySetInnerHTML={{ __html: data.markdownRemark.html }} itemProp="articleBody" />
+    </Layout>
+  )
+}
+
+export const query = graphql`
+  query($id: String) {
+    markdownRemark(id: { eq: $id }) {
+      frontmatter {
+        title
+        date
+      }
+      html
+    }
+  }
+`
