@@ -11,13 +11,13 @@ const ArchivePage = ({ data }) => {
     <Layout pageTitle="Archive">
       {
         data.allMarkdownRemark.nodes.map((node) => (
-          <Link to={node.frontmatter.slug} key={node.id}>
-            <div>
+          <div>
+            <Link to={node.frontmatter.slug} key={node.id}>
               <h2>{node.frontmatter.title}</h2>
-              <p>Posted: {node.frontmatter.date}</p>
-              <p>{node.excerpt}</p> 
-            </div>
-          </Link>
+            </Link>
+            <h3>Posted: {node.frontmatter.date}</h3>
+            <p>{node.frontmatter.blurb}</p> 
+          </div>
         ))
       }
     </Layout>
@@ -33,9 +33,10 @@ export const query = graphql`
                 frontmatter {
                     date(formatString: "MMMM D, YYYY")
                     title
+                    slug
+                    blurb
                 }
             id
-            excerpt
         }
     }
   }

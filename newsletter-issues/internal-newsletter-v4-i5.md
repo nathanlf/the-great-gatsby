@@ -2,6 +2,10 @@
 title: "Internal Newsletter Volume 4, Issue 5"
 date: "2024-05-31"
 slug: "newsletter-v4-i5"
+blurb: "The May edition of the RENCI Internal Newsletter includes highlights
+and recordings from project events, news from ACIS and Finance,
+opportunities to apply for awards and submit papers for conferences, and
+upcoming events at RENCI and beyond."
 ---
 ***Pictured:** Attendees posing at the hybrid Gene Ontology Consortium
 Meeting. Photo credit: Michi LaCorte.*
