@@ -1,6 +1,5 @@
 import * as React from 'react'
 import { Link, useStaticQuery, graphql } from 'gatsby'
-import { StaticImage } from 'gatsby-plugin-image'
 import {
     container,
     heading,
@@ -23,7 +22,7 @@ const Layout = ({ pageTitle, children }) => {
   
     return (
     <div className={container}>
-      <StaticImage alt="RENCI Logo" src="../images/renci-logo.png" />
+      <img src="/renci-logo.png" alt="RENCI Logo" style={{ maxWidth: '100%' }}/>
       <header className={siteTitle}>{data.site.siteMetadata.title}</header>
       <nav>
         <ul className={navLinks}>

@@ -7,7 +7,8 @@ import { Link } from 'gatsby'
 import { navLinkText } from '../components/layout.module.css'
 
 // TODO set newest edition link to point to newest edition each month--automate? document either way
-// maybe keep track of a newest edition global variable / slug?
+//  - update index.js, archive.js, layout.js string literals to reflect change in URL
+//  - maybe keep track of a newest edition global variable
 
 // Step 2: Define your component
 const IndexPage = () => {

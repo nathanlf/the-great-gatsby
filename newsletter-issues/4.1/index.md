@@ -7,7 +7,7 @@ messages from ACIS and Finance, new features and requests from the
 Dashboard group, opportunities to participate in hackathons and
 competitions, and upcoming events hosted by RENCI teams."
 ---
-<img src="./media/image12.png" style="width:6.5in;height:3.25in" />
+<img src="./media/image4.png" style="width:6.5in;height:3.25in" />
 
 ***Pictured:** The Communications Team working on a project for RENCI’s
 20th Anniversary.*
@@ -17,7 +17,7 @@ messages from ACIS and Finance, new features and requests from the
 Dashboard group, opportunities to participate in hackathons and
 competitions, and upcoming events hosted by RENCI teams.*
 
-<img src="./media/image4.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image2.png" style="width:6.5in;height:0.88889in" />
 
 - **Happy New Year 2024!** OOD wishes you all a successful, productive,
   and happy year ahead. We are proud of the RENCI achievements and the
@@ -32,7 +32,7 @@ competitions, and upcoming events hosted by RENCI teams.*
   helping develop various celebrations, email [<u>Jayasree</u>
   <u>Jaganatha</u>](mailto:jayasree@renci.org).
 
-<img src="./media/image5.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image1.png" style="width:6.5in;height:0.88889in" />
 
 - **iRODS Releases**. Consider upgrading your existing deployments.
 
@@ -48,7 +48,7 @@ competitions, and upcoming events hosted by RENCI teams.*
   - **Congratulations to Stan Ahalt,** as the ICEES award received
     additional funding of $858,105.
 
-<img src="./media/image9.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image12.png" style="width:6.5in;height:0.88889in" />
 
 - **Mail Routing**. As communicated earlier this month, RENCI **external
   email routing** is changing. If you are wondering what the changes
@@ -93,7 +93,7 @@ competitions, and upcoming events hosted by RENCI teams.*
     a ticket to [<u>help@renci.org</u>](mailto:help@renci.org) - we are
     happy to answer your questions and address your issue.
 
-<img src="./media/image10.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image9.png" style="width:6.5in;height:0.88889in" />
 
 - **Mileage Rates.** Effective January 1, 2023, the Internal Revenue
   Service (IRS) established new mileage rates for 2023. When a personal
@@ -130,7 +130,7 @@ competitions, and upcoming events hosted by RENCI teams.*
   ensure that you are working with the Finance Office well in advance of
   any award changes that require NIH approval.
 
-> <img src="./media/image6.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image8.png" style="width:6.5in;height:0.88889in" />
 
 - **Switchboard Homepage.** The Dashboard team is excited to announce
   the Switchboard Homepage! Instead of navigating the Switchboard
@@ -150,7 +150,7 @@ competitions, and upcoming events hosted by RENCI teams.*
   profile! If you are eligible to become (or are) a PI/co-PI, please
   list this information in your profile.
 
-<img src="./media/image7.png" style="width:6.5in;height:0.88889in" /><span class="mark">  
+<img src="./media/image5.png" style="width:6.5in;height:0.88889in" /><span class="mark">
 </span>
 
 - **<span class="mark">Do you have ideas for future DEI activities at
@@ -209,7 +209,7 @@ competitions, and upcoming events hosted by RENCI teams.*
 > As always, comments and questions are welcome. Contact your favorite
 > PM (Vicki, Chelsea, Ari, or Paul) with any questions.</span>
 
-<img src="./media/image1.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image10.png" style="width:6.5in;height:0.88889in" />
 
 - <span class="mark">**Sign up to be a Pearl Hacks mentor — February
   24 - 25.** RENCI is sponsoring Pearl Hacks, a hackathon for women and
@@ -246,7 +246,7 @@ competitions, and upcoming events hosted by RENCI teams.*
   and tools for their activities. Learn more
   [<u>here</u>](https://idaorg.gov1.qualtrics.com/jfe/form/SV_cRMnkUFJoXs7UfI).</span>
 
-<img src="./media/image11.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image7.png" style="width:6.5in;height:0.88889in" />
 
 - **STAR Program Deadlines.** If you are interested in having a student
   join your team for Summer 2024, please fill out the [<u>Staff
@@ -275,7 +275,7 @@ competitions, and upcoming events hosted by RENCI teams.*
   - **Soumyashree Kar:** Soumya Kar is joining the Analytics group and
     will be working on the NSF Imageomics project.
 
-<img src="./media/image2.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image11.png" style="width:6.5in;height:0.88889in" />
 
 - <span class="mark">**TRiRODS: pam_interactive iRODS Authentication
   Plugin and OIDC — February 14 at 4 PM ET.** The iRODS Consortium has
@@ -308,7 +308,7 @@ competitions, and upcoming events hosted by RENCI teams.*
   academic, government, and commercial institutions. Learn more
   [<u>here</u>](https://irods.org/ugm2024/).</span>
 
-<img src="./media/image8.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image6.png" style="width:6.5in;height:0.88889in" />
 
 - **The RENCI Tools Evaluation Team is looking for new members!**
 

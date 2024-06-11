@@ -1,9 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
-// import { Link } from "gatsby"
 
-// const shortcodes = { Link } // Provide common components here
 
 export default function NewsletterIssue({ data }) {
   return (
