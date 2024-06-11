@@ -16,7 +16,7 @@ const IndexPage = () => {
       <p>Welcome to the RENCI Internal Newsletter Web Application!</p>
       <div>
         <span>Check out our newest edition here! </span>
-        <Link to="/newsletter-v4-i5/" className={navLinkText}>
+        <Link to="/archive/2024-05/4.5" className={navLinkText}>
           Visit
         </Link>
       </div>

@@ -10,7 +10,8 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         nodes {
           id
           frontmatter {
-            slug
+            date
+            edition
           }
         }
       }
@@ -29,7 +30,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     createPage({
       // As mentioned above you could also query something else like frontmatter.title above and use a helper function
       // like slugify to create a slug
-      path: "archive/" + node.frontmatter.slug,
+      path: "archive/" + node.frontmatter.date + "/" + node.frontmatter.edition,
       // changed from `${postTemplate}?__contentFilePath=${node.internal.contentFilePath}` to postTemplate
       component: postTemplate,      
       context: { id: node.id },

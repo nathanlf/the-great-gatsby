@@ -1,7 +1,7 @@
 ---
 title: "Internal Newsletter Volume 4, Issue 4"
-date: "2024-04-26"
-slug: "newsletter-v4-i4"
+date: "2024-04"
+edition: "4.4"
 blurb: "The April edition of the RENCI Internal Newsletter includes new
 resources from the Office of the Director; recaps and recordings from
 recent project and service events; updates from the ACIS, Finance, and

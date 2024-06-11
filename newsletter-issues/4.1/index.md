@@ -1,7 +1,7 @@
 ---
 title: "Internal Newsletter Volume 4, Issue 1"
-date: "2024-01-26"
-slug: "newsletter-v4-i1"
+date: "2024-01"
+edition: "4.1"
 blurb: "The January edition of the RENCI Internal Newsletter includes important
 messages from ACIS and Finance, new features and requests from the
 Dashboard group, opportunities to participate in hackathons and

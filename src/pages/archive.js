@@ -12,7 +12,7 @@ const ArchivePage = ({ data }) => {
       {
         data.allMarkdownRemark.nodes.map((node) => (
           <div>
-            <Link to={node.frontmatter.slug} key={node.id}>
+            <Link to={ (node.frontmatter.date + "/" + node.frontmatter.edition) } key={node.id}>
               <h2>{node.frontmatter.title}</h2>
             </Link>
             <h3>Posted: {node.frontmatter.date}</h3>
@@ -31,9 +31,9 @@ export const query = graphql`
         allMarkdownRemark(sort: {frontmatter: {date: DESC}}) {
             nodes {
                 frontmatter {
-                    date(formatString: "MMMM D, YYYY")
+                    date
                     title
-                    slug
+                    edition
                     blurb
                 }
             id

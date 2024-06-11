@@ -1,7 +1,7 @@
 ---
 title: "Internal Newsletter Volume 4, Issue 3"
-date: "2024-03-29"
-slug: "newsletter-v4-i3"
+date: "2024-03"
+edition: "4.3"
 blurb: "The March edition of the RENCI Internal Newsletter includes information
 on our new office space policy, updates from the Finance, ACIS, and DEIA
 teams, ways to get involved with our service teams, various professional

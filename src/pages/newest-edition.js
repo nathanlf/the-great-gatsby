@@ -3,9 +3,9 @@ import { graphql } from 'gatsby'
 import Layout from '../components/layout'
 import Seo from '../components/seo'
 //import { MDXRenderer } from "gatsby-mdx-fix"
-//import NewestEdition from "../../newsletter-issues/internal-newsletter-v4-i5.mdx"
+//import NewestEdition from "../../newsletter-issues/..."
 
-const NewsletterPage = ( {data} ) => {
+const NewestEditionPage = ( {data} ) => {
     console.log(data);
     return (
       <Layout pageTitle="Newest Edition">
@@ -14,15 +14,16 @@ const NewsletterPage = ( {data} ) => {
     )
 }
 
+// not dynamic, manually updating this as of now (the string literal "4.5")
 export const query = graphql`
   query {
-    markdownRemark(frontmatter: {slug: {eq: "newsletter-v4-i5"}}) {
+    markdownRemark(frontmatter: {edition: {eq: "4.5"}}) {
       id
       html
     }
   }
 `
 
-export const Head = () => <Seo title="Newsletter View" />
+export const Head = () => <Seo title="Newest Newsletter" />
 
-export default NewsletterPage
+export default NewestEditionPage
