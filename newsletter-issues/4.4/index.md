@@ -7,7 +7,8 @@ resources from the Office of the Director; recaps and recordings from
 recent project and service events; updates from the ACIS, Finance, and
 Dashboard teams, and educational opportunities from the DEIA team."
 ---
-<img src="./media/image12.png" style="width:6.5in;height:3.25in" />
+
+<img src="./media/image4.png" style="width:6.5in;height:3.25in" />
 
 ***Pictured:** Attendees listen to a session during the South Big Data
 Hub Partnership Forum in April.*
@@ -74,7 +75,7 @@ Dashboard teams, and educational opportunities from the DEIA team.*
   If you have any questions or concerns, please contact
   [<u>coordinators@renci.org</u>](mailto:coordinators@renci.org).
 
-<img src="./media/image6.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image1.png" style="width:6.5in;height:0.88889in" />
 
 - **April Webinars.** RENCI teams delivered several interesting webinars
   related to their respective projects. You can catch up with them, if
@@ -113,7 +114,7 @@ Dashboard teams, and educational opportunities from the DEIA team.*
 
   - **Yufeng Xin - SDX (continuation)**
 
-<img src="./media/image11.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image12.png" style="width:6.5in;height:0.88889in" />
 
 - **Europa NetApp Storage Updates — April 30 at 6 PM ET.** ACIS will be
   performing updates on our NetApp storage in the Europa Datacenter on
@@ -125,7 +126,7 @@ Dashboard teams, and educational opportunities from the DEIA team.*
   issues, most NFS storage related issues can be resolved with a restart
   of the server, service, or container.
 
-<img src="./media/image4.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image8.png" style="width:6.5in;height:0.88889in" />
 
 - **FY24 Year End Deadlines.** UNC-Chapel Hill conducts year end close
   at the end of each fiscal year. RENCI’s Research & Administration
@@ -139,7 +140,7 @@ Dashboard teams, and educational opportunities from the DEIA team.*
   found
   [<u>here</u>](https://docs.google.com/spreadsheets/d/1zGwb2a9ci4tmtZIbt62Htc-2PcmGvHKr/edit?usp=sharing&ouid=111606538040345024607&rtpof=true&sd=true).
 
-<img src="./media/image5.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image10.png" style="width:6.5in;height:0.88889in" />
 
 <span class="mark"></span>
 
@@ -149,7 +150,7 @@ Switchboard Hub. Feel free to ask any questions or provide us with
 suggestions for ways to enhance your user experience.
 <span class="mark"></span>
 
-<img src="./media/image10.png" style="width:6.5in;height:0.88889in" /><span class="mark">  
+<img src="./media/image6.png" style="width:6.5in;height:0.88889in" /><span class="mark">  
 </span>
 
 - <span class="mark">**DEIA Seminars at UNC — May 8 at 2 PM ET.** The
@@ -197,7 +198,7 @@ suggestions for ways to enhance your user experience.
     future DivE In Sessions or for questions about the goals or
     structure of DEI at RENCI.</span>
 
-<img src="./media/image1.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image3.png" style="width:6.5in;height:0.88889in" />
 
 - <span class="mark">**NSF Grants.gov Application Guide.** NSF published
   a revision to the [<u>Grants.gov Application
@@ -271,7 +272,7 @@ suggestions for ways to enhance your user experience.
   context on projects from the last 20 years. To assist, please email
   [<u>Jayasree</u> <u>Jaganatha</u>](mailto:jayasree@renci.org).
 
-<img src="./media/image8.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image11.png" style="width:6.5in;height:0.88889in" />
 
 - <span class="mark">**iRODS User Group Meeting 2024 \| Amsterdam, NL —
   May 28 - 31.** The 16th Annual iRODS User Group Meeting is your chance
@@ -312,7 +313,7 @@ suggestions for ways to enhance your user experience.
   analytics, visualization, curation, and more from expert instructors.
   Learn more [<u>here</u>](https://datamatters.org/).</span>
 
-<img src="./media/image3.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image5.png" style="width:6.5in;height:0.88889in" />
 
 - **The RENCI Tools Evaluation Team is looking for new members!**
 

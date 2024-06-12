@@ -7,7 +7,8 @@ on our new office space policy, updates from the Finance, ACIS, and DEIA
 teams, ways to get involved with our service teams, various professional
 development opportunities, and upcoming events at RENCI."
 ---
-<img src="./media/image7.png" style="width:6.5in;height:3.25in" />
+
+<img src="./media/image1.png" style="width:6.5in;height:3.25in" />
 
 ***Pictured:** Presenters from RENCI, UNC, NIH, and the EPA at the
 second Clinical and Environmental Health Data Workshop in February.*
@@ -17,7 +18,7 @@ on our new office space policy, updates from the Finance, ACIS, and DEIA
 teams, ways to get involved with our service teams, various professional
 development opportunities, and upcoming events at RENCI.*
 
-<img src="./media/image5.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image3.png" style="width:6.5in;height:0.88889in" />
 
 - **Faculty Advisory Council.** RENCI leadership hosted a meeting for
   the RENCI Faculty Advisory Council (FAC) on February 26. The FAC,
@@ -68,7 +69,7 @@ development opportunities, and upcoming events at RENCI.*
   If you have any questions or concerns, please contact
   [<u>coordinators@renci.org</u>](mailto:coordinators@renci.org).
 
-<img src="./media/image3.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image2.png" style="width:6.5in;height:0.88889in" />
 
 - **UNC Advances Hurricane-driven Flood Prediction Capabilities for
   Coastal Communities.** RENCI, the Coastal Resilience Center, and
@@ -93,7 +94,7 @@ development opportunities, and upcoming events at RENCI.*
 
   - iRODS rirods R-Package v0.2.0
 
-<img src="./media/image8.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image11.png" style="width:6.5in;height:0.88889in" />
 
 - **Upcoming Application/Duo Changes.** UNC ITS is implementing changes
   over the next month to applications impacted by Duo, ending current
@@ -118,13 +119,13 @@ development opportunities, and upcoming events at RENCI.*
 > after these changes are implemented, please submit a support ticket
 > with the relevant details via email to <u>help@renci.org</u>.
 
-<img src="./media/image6.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image8.png" style="width:6.5in;height:0.88889in" />
 
 - **Finance & Research Administration Contact List.** The Finance team
   has updated their contact list. You can review the new one
   [<u>here</u>](https://docs.google.com/spreadsheets/d/1zGwb2a9ci4tmtZIbt62Htc-2PcmGvHKr/edit?usp=sharing&ouid=111606538040345024607&rtpof=true&sd=true).
 
-<span class="mark"></span><img src="./media/image11.png" style="width:6.5in;height:0.88889in" /><span class="mark">  
+<span class="mark"></span><img src="./media/image6.png" style="width:6.5in;height:0.88889in" /><span class="mark">  
 </span>
 
 - <span class="mark">**How Does Diversity Impact Innovation in Team
@@ -155,7 +156,7 @@ development opportunities, and upcoming events at RENCI.*
     future DivE In Sessions or for questions about the goals or
     structure of DEI at RENCI.</span>
 
-<img src="./media/image1.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image4.png" style="width:6.5in;height:0.88889in" />
 
 - <span class="mark">**NSF Grants.gov Application Guide.** NSF published
   a revision to the [<u>Grants.gov Application
@@ -178,7 +179,7 @@ development opportunities, and upcoming events at RENCI.*
 > As always, comments and questions are welcome. Contact your favorite
 > PM (Vicki, Chelsea, Ari, or Paul) with any questions.</span>
 
-<img src="./media/image10.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image9.png" style="width:6.5in;height:0.88889in" />
 
 - <span class="mark">**POCTRN 2024 — Expressions of Interest due March
   31.** The National Institute of Biomedical Imaging and
@@ -219,7 +220,7 @@ development opportunities, and upcoming events at RENCI.*
   collaborations on a global scale. Learn more
   [<u>here</u>](https://womenintechnology.sony.com/).</span>
 
-<img src="./media/image4.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image7.png" style="width:6.5in;height:0.88889in" />
 
 - **Women in IT Spotlight: Liezl Mae Fos.** March is Women’s History
   Month and ITS is celebrating by highlighting Carolina women in
@@ -279,7 +280,7 @@ development opportunities, and upcoming events at RENCI.*
 > information or to join, contact Gabi Peterson at
 > [<u>gpeterson@renci.org</u>](mailto:gpeterson@renci.org).
 
-<img src="./media/image2.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image10.png" style="width:6.5in;height:0.88889in" />
 
 - <span class="mark">**Team Science and the Academic Research
   Enterprise: What Team Science is and Why It Matters – April 11 at 12
@@ -363,7 +364,7 @@ development opportunities, and upcoming events at RENCI.*
   analytics, visualization, curation, and more from expert instructors.
   Learn more [<u>here</u>](https://datamatters.org/).</span>
 
-<img src="./media/image9.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image5.png" style="width:6.5in;height:0.88889in" />
 
 - **The RENCI Tools Evaluation Team is looking for new members!**
 

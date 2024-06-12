@@ -7,6 +7,9 @@ and recordings from project events, news from ACIS and Finance,
 opportunities to apply for awards and submit papers for conferences, and
 upcoming events at RENCI and beyond."
 ---
+
+<img src="./media/image11.png" style="width:6.5in;height:0.88889in" />
+
 ***Pictured:** Attendees posing at the hybrid Gene Ontology Consortium
 Meeting. Photo credit: Michi LaCorte.*
 
@@ -15,7 +18,7 @@ and recordings from project events, news from ACIS and Finance,
 opportunities to apply for awards and submit papers for conferences, and
 upcoming events at RENCI and beyond.*
 
-<img src="./media/image10.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image3.png" style="width:6.5in;height:0.88889in" />
 
 - **RENCI Europa Center Office Space Policy.** Please read and
   familiarize yourself with the [<u>Office Space Allocation, Assignment
@@ -29,7 +32,7 @@ upcoming events at RENCI and beyond.*
   missed the L&L, you can watch the recording
   [<u>here</u>](https://drive.google.com/file/d/1LrNvkxsfZrLA_aB5PkbpGxkQ1yiiiVTQ/view?usp=sharing).
 
-<img src="./media/image9.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image1.png" style="width:6.5in;height:0.88889in" />
 
 - **Congratulations on these new awards!**
 
@@ -98,7 +101,7 @@ upcoming events at RENCI and beyond.*
 
   - NFSRODS v2.3.0
 
-<img src="./media/image2.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image10.png" style="width:6.5in;height:0.88889in" />
 
 - **Security Software Update.** In coordination with UNC ITS, the ACIS
   team is rolling out a security software update on RENCI-provided
@@ -132,7 +135,7 @@ upcoming events at RENCI and beyond.*
   experience some longer than normal processing times as the University
   completes year end close. Thank you in advance for your patience!
 
-<img src="./media/image8.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image5.png" style="width:6.5in;height:0.88889in" />
 
 - <span class="mark">**Save the date for the next webinar** sponsored by
   NIH’s Office of Scientific Diversity**:** [<u>How Are Institutions
@@ -169,7 +172,7 @@ upcoming events at RENCI and beyond.*
     future DivE In Sessions or for questions about the goals or
     structure of DEI at RENCI.</span>
 
-<img src="./media/image1.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image3.png" style="width:6.5in;height:0.88889in" />
 
 - <span class="mark">**Burroughs Wellcome Fund Climate Change and Human
   Health Seed Grants — Applications due July 25.** The Burroughs
@@ -207,7 +210,7 @@ upcoming events at RENCI and beyond.*
 > Contact your favorite PM (Chelsea, Ari, or Paul) with any
 > questions.</span>
 
-<img src="./media/image5.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image8.png" style="width:6.5in;height:0.88889in" />
 
 - <span class="mark">**Sony Women in Technology Award with Nature —
   Applications due May 31.** The award team seeks to recognize and
@@ -248,14 +251,14 @@ upcoming events at RENCI and beyond.*
   you. Learn more
   [<u>here</u>](https://web.cvent.com/event/d641bd9f-6c99-4cbc-951b-33b1ca05d4ed/summary).</span>
 
-<img src="./media/image4.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image6.png" style="width:6.5in;height:0.88889in" />
 
 - **2024 marks RENCI’s 20th Anniversary!** As part of archival efforts,
   the team is seeking CVs, white papers, and photos that provide more
   context on projects from the last 20 years. To assist, please email
   [<u>Jayasree</u> <u>Jaganatha</u>](mailto:jayasree@renci.org).
 
-<img src="./media/image6.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image9.png" style="width:6.5in;height:0.88889in" />
 
 - <span class="mark">**Phenotypic Data Exchange for Genomics and Rare
   Diseases: Vulcan Roundtable — May 31 at 4 PM ET.** Phenotype data is
@@ -338,7 +341,7 @@ upcoming events at RENCI and beyond.*
   to all registrants. Register
   [<u>here</u>](https://renci.zoom.us/webinar/register/WN_rq6kn2z8Sw60WQQ0QOKftA).</span>
 
-<img src="./media/image3.png" style="width:6.5in;height:0.88889in" />
+<img src="./media/image4.png" style="width:6.5in;height:0.88889in" />
 
 - **The RENCI Tools Evaluation Team is looking for new members!**
 
