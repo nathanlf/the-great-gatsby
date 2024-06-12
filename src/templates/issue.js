@@ -13,11 +13,11 @@ export default function NewsletterIssue({ data }) {
 }
 
 export const query = graphql`
-  query($id: String) {
+  query Issue($id: String) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
         title
-        date
+        date(formatString: "MMMM, YYYY")
       }
       html
     }

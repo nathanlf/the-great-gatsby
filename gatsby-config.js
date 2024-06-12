@@ -15,7 +15,15 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          `gatsby-remark-images-anywhere`
+          `gatsby-remark-images-anywhere`,
+          {
+            resolve: `gatsby-remark-autolink-headers`,
+            options: {
+              offsetY: `100`,
+              className: `section-header`, // optional; set class for the anchor tags
+              elements: [`h1`, `h2`]
+            }
+          }
         ],
       },
     },
