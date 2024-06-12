@@ -10,19 +10,6 @@ competitions, and upcoming events hosted by RENCI teams."
 
 <!-- <link href="../../src/components/layout.module.css" rel="stylesheet"></link> -->
 
-### Table of Contents
-- [Notes from OOD](#notes-from-ood)
-- [Projects, Funding, and Awards](#projects-funding-and-awards)
-- [ACIS Messages](#acis-messages)
-- [Finance Messages](#finance-messages)
-- [Dashbaord Updates](#dashboard-updates)
-- [Diversity, Equity, and Inclusion](#diversity-equity-and-inclusion)
-- [Proposals](#proposals)
-- [Professional Development](#professional-development)
-- [Announcements](#announcements)
-- [Upcoming Events](#upcoming-events)
-- [Ongoing Initiatives](#ongoing-initiatives)
-
 <img src="./media/image4.png" style="width:6.5in;height:3.25in" />
 
 ***Pictured:** The Communications Team working on a project for RENCI’s
