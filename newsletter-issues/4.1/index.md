@@ -8,8 +8,6 @@ Dashboard group, opportunities to participate in hackathons and
 competitions, and upcoming events hosted by RENCI teams."
 ---
 
-<!-- <link href="../../src/components/layout.module.css" rel="stylesheet"></link> -->
-
 <img src="./media/image4.png" style="width:6.5in;height:3.25in" />
 
 ***Pictured:** The Communications Team working on a project for RENCI’s
@@ -22,7 +20,7 @@ competitions, and upcoming events hosted by RENCI teams.*
 
 <img src="./media/image2.png" style="width:6.5in;height:0.88889in" />
 
-# Notes from OOD
+# Notes From OOD
 
 - **Happy New Year 2024!** OOD wishes you all a successful, productive,
   and happy year ahead. We are proud of the RENCI achievements and the

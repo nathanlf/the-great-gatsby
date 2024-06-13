@@ -20,6 +20,8 @@ upcoming events at RENCI and beyond.*
 
 <img src="./media/image3.png" style="width:6.5in;height:0.88889in" />
 
+# Notes From OOD
+
 - **RENCI Europa Center Office Space Policy.** Please read and
   familiarize yourself with the [<u>Office Space Allocation, Assignment
   & Management
@@ -33,6 +35,8 @@ upcoming events at RENCI and beyond.*
   [<u>here</u>](https://drive.google.com/file/d/1LrNvkxsfZrLA_aB5PkbpGxkQ1yiiiVTQ/view?usp=sharing).
 
 <img src="./media/image1.png" style="width:6.5in;height:0.88889in" />
+
+# Projects, Funding, and Awards
 
 - **Congratulations on these new awards!**
 
@@ -103,6 +107,8 @@ upcoming events at RENCI and beyond.*
 
 <img src="./media/image10.png" style="width:6.5in;height:0.88889in" />
 
+# ACIS Messages
+
 - **Security Software Update.** In coordination with UNC ITS, the ACIS
   team is rolling out a security software update on RENCI-provided
   Windows and Mac laptops. This [<u>Security Software Update
@@ -125,6 +131,8 @@ upcoming events at RENCI and beyond.*
 
 <img src="./media/image7.png" style="width:6.5in;height:0.88889in" />
 
+# Finance Messages
+
 - **OSP New Page.** Check out UNC-CH’s Office of Sponsored Programs
   [<u>new
   webpage</u>](https://osp.unc.edu/proposal/other-support-and-biosketch/)
@@ -136,6 +144,8 @@ upcoming events at RENCI and beyond.*
   completes year end close. Thank you in advance for your patience!
 
 <img src="./media/image5.png" style="width:6.5in;height:0.88889in" />
+
+# DEIA
 
 - <span class="mark">**Save the date for the next webinar** sponsored by
   NIH’s Office of Scientific Diversity**:** [<u>How Are Institutions
@@ -174,6 +184,8 @@ upcoming events at RENCI and beyond.*
 
 <img src="./media/image3.png" style="width:6.5in;height:0.88889in" />
 
+# Proposals
+
 - <span class="mark">**Burroughs Wellcome Fund Climate Change and Human
   Health Seed Grants — Applications due July 25.** The Burroughs
   Wellcome Fund aims to stimulate the growth of new connections between
@@ -211,6 +223,8 @@ upcoming events at RENCI and beyond.*
 > questions.</span>
 
 <img src="./media/image8.png" style="width:6.5in;height:0.88889in" />
+
+# Professional Development
 
 - <span class="mark">**Sony Women in Technology Award with Nature —
   Applications due May 31.** The award team seeks to recognize and
@@ -253,12 +267,16 @@ upcoming events at RENCI and beyond.*
 
 <img src="./media/image6.png" style="width:6.5in;height:0.88889in" />
 
+# Announcements
+
 - **2024 marks RENCI’s 20th Anniversary!** As part of archival efforts,
   the team is seeking CVs, white papers, and photos that provide more
   context on projects from the last 20 years. To assist, please email
   [<u>Jayasree</u> <u>Jaganatha</u>](mailto:jayasree@renci.org).
 
 <img src="./media/image9.png" style="width:6.5in;height:0.88889in" />
+
+# Upcoming Events
 
 - <span class="mark">**Phenotypic Data Exchange for Genomics and Rare
   Diseases: Vulcan Roundtable — May 31 at 4 PM ET.** Phenotype data is
@@ -342,6 +360,8 @@ upcoming events at RENCI and beyond.*
   [<u>here</u>](https://renci.zoom.us/webinar/register/WN_rq6kn2z8Sw60WQQ0QOKftA).</span>
 
 <img src="./media/image4.png" style="width:6.5in;height:0.88889in" />
+
+# Ongoing Initiatives
 
 - **The RENCI Tools Evaluation Team is looking for new members!**
 

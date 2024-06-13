@@ -1,9 +1,7 @@
 import * as React from 'react'
 import { Link, graphql } from 'gatsby'
-import Layout from '../components/layout'
-import Seo from '../components/seo'
-//import { MDXRenderer } from "gatsby-plugin-mdx"
-//import { MDXRenderer } from "gatsby-mdx-fix"
+import Layout from '../components/Layout'
+import Seo from '../components/Seo'
 
 
 const ArchivePage = ({ data }) => {
@@ -23,8 +21,6 @@ const ArchivePage = ({ data }) => {
     </Layout>
   )
 }
-
-// TODO: query for "blurb" instead of "excerpt"
 
 export const query = graphql`
     query {

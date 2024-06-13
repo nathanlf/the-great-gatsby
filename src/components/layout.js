@@ -1,13 +1,11 @@
 import * as React from 'react'
-import { Link, useStaticQuery, graphql } from 'gatsby'
+import { useStaticQuery, graphql } from 'gatsby'
+import Navbar from './Navbar'
 import {
     container,
     heading,
-    navLinks,
-    navLinkItem,
-    navLinkText,
-    siteTitle,
-  } from './layout.module.css'
+    footer
+  } from "../styles/layout.module.css"
 
 const Layout = ({ pageTitle, children }) => {
     const data = useStaticQuery(graphql`
@@ -22,41 +20,14 @@ const Layout = ({ pageTitle, children }) => {
   
     return (
     <div className={container}>
-      <img src="/renci-logo.png" alt="RENCI Logo" style={{ maxWidth: '100%' }}/>
-      <header className={siteTitle}>{data.site.siteMetadata.title}</header>
-      <nav>
-        <ul className={navLinks}>
-          <li className={navLinkItem}>
-            <Link to="/" className={navLinkText}>
-                Home
-            </Link>
-          </li>
-          <li className={navLinkItem}>
-            <Link to="/about" className={navLinkText}>
-                About
-            </Link>
-          </li>
-          <li className={navLinkItem}>
-            <Link to="/archive" className={navLinkText}>
-                Archive
-            </Link>
-          </li>
-          <li className={navLinkItem}>
-            <Link to="/archive/2024-05/4.5" className={navLinkText}>
-                Newest Edition
-            </Link>
-          </li>
-          <li className={navLinkItem}>
-            <Link to="/settings" className={navLinkText}>
-                Settings
-            </Link>
-          </li>
-        </ul>
-      </nav>
+      <Navbar title={data.site.siteMetadata.title}/>
       <main>
         <h1 className={heading}>{pageTitle}</h1>
         {children}
       </main>
+      <footer className={footer}>
+        <p>Copyright 2024 RENCI</p>
+      </footer>
     </div>
     )
 }

@@ -20,6 +20,8 @@ Dashboard teams, and educational opportunities from the DEIA team.*
 
 <img src="./media/image2.png" style="width:6.5in;height:0.88889in" />
 
+# Notes From OOD
+
 - **Thank you, everyone!**
 
   - Thank you to all who participated in the **Deputy Director**
@@ -77,6 +79,8 @@ Dashboard teams, and educational opportunities from the DEIA team.*
 
 <img src="./media/image1.png" style="width:6.5in;height:0.88889in" />
 
+# Projects, Funding, and Awards
+
 - **April Webinars.** RENCI teams delivered several interesting webinars
   related to their respective projects. You can catch up with them, if
   you missed them IRL.
@@ -116,6 +120,8 @@ Dashboard teams, and educational opportunities from the DEIA team.*
 
 <img src="./media/image12.png" style="width:6.5in;height:0.88889in" />
 
+# ACIS Messages
+
 - **Europa NetApp Storage Updates — April 30 at 6 PM ET.** ACIS will be
   performing updates on our NetApp storage in the Europa Datacenter on
   Tuesday, April 30th starting at 6 PM. The outage window is expected to
@@ -127,6 +133,8 @@ Dashboard teams, and educational opportunities from the DEIA team.*
   of the server, service, or container.
 
 <img src="./media/image8.png" style="width:6.5in;height:0.88889in" />
+
+# Finance Messages
 
 - **FY24 Year End Deadlines.** UNC-Chapel Hill conducts year end close
   at the end of each fiscal year. RENCI’s Research & Administration
@@ -142,6 +150,8 @@ Dashboard teams, and educational opportunities from the DEIA team.*
 
 <img src="./media/image10.png" style="width:6.5in;height:0.88889in" />
 
+# Dashboard Updates
+
 <span class="mark"></span>
 
 **Dashboard Office Hours — May 8 at 1 PM ET.** During this session, the
@@ -152,6 +162,8 @@ suggestions for ways to enhance your user experience.
 
 <img src="./media/image6.png" style="width:6.5in;height:0.88889in" /><span class="mark">  
 </span>
+
+# DEIA
 
 - <span class="mark">**DEIA Seminars at UNC — May 8 at 2 PM ET.** The
   University Office of Diversity, Equity, and Inclusion has occasional
@@ -200,6 +212,8 @@ suggestions for ways to enhance your user experience.
 
 <img src="./media/image3.png" style="width:6.5in;height:0.88889in" />
 
+# Proposals
+
 - <span class="mark">**NSF Grants.gov Application Guide.** NSF published
   a revision to the [<u>Grants.gov Application
   Guide</u>](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=grantsgovguide0524).
@@ -228,6 +242,8 @@ suggestions for ways to enhance your user experience.
 
 <img src="./media/image9.png" style="width:6.5in;height:0.88889in" />
 
+# Professional Development
+
 - <span class="mark">**Sony Women in Technology Award with Nature —
   Applications due May 31.** The award team seeks to recognize and
   celebrate remarkable women spearheading technological advancements,
@@ -242,6 +258,8 @@ suggestions for ways to enhance your user experience.
   [<u>here</u>](https://womenintechnology.sony.com/).</span>
 
 <img src="./media/image7.png" style="width:6.5in;height:0.88889in" />
+
+# Announcements
 
 - **STAR Talk Week.** STAR hosted the Spring 24 STAR Talk last week.
   Thank you to the RENCI staff for your continued support! We hope you
@@ -273,6 +291,8 @@ suggestions for ways to enhance your user experience.
   [<u>Jayasree</u> <u>Jaganatha</u>](mailto:jayasree@renci.org).
 
 <img src="./media/image11.png" style="width:6.5in;height:0.88889in" />
+
+# Upcoming Events
 
 - <span class="mark">**iRODS User Group Meeting 2024 \| Amsterdam, NL —
   May 28 - 31.** The 16th Annual iRODS User Group Meeting is your chance
@@ -314,6 +334,8 @@ suggestions for ways to enhance your user experience.
   Learn more [<u>here</u>](https://datamatters.org/).</span>
 
 <img src="./media/image5.png" style="width:6.5in;height:0.88889in" />
+
+# Ongoing Initiatives
 
 - **The RENCI Tools Evaluation Team is looking for new members!**
 
