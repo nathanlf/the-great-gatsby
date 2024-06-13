@@ -1,8 +1,8 @@
 import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/Layout"
-import SectionHeader from "../components/SectionHeader"
 import TableOfContents from "../components/TableOfContents"
+import { Markdown } from "../components/Markdown"
 
 
 export default function NewsletterIssue({ data }) {
@@ -25,31 +25,19 @@ export default function NewsletterIssue({ data }) {
     }
   });
 
-// Make table of contents that slugifies headerName and links it
-/* <TableOfContents headers = { headers } /> */
-/* link logic should be in TableOfContents <Link to="/archive/2024-01/4.1/#notes-from-ood">Notes From OOD</Link> */
+
 
   return (
     <Layout pageTitle={ title }>
       <h3>{ date }</h3>
       <TableOfContents headers={ headers } />
-      <section dangerouslySetInnerHTML={{ __html: html }} itemProp="articleBody" />
+
+      <Markdown src={html} />
+      
+      {/* <section dangerouslySetInnerHTML={{ __html: html }} itemProp="articleBody" /> */}
     </Layout>
   )
 }
-
-// ### Table of Contents for 4.1
-// - [Notes from OOD](#notes-from-ood)
-// - [Projects, Funding, and Awards](#projects-funding-and-awards)
-// - [ACIS Messages](#acis-messages)
-// - [Finance Messages](#finance-messages)
-// - [Dashbaord Updates](#dashboard-updates)
-// - [Diversity, Equity, and Inclusion](#diversity-equity-and-inclusion)
-// - [Proposals](#proposals)
-// - [Professional Development](#professional-development)
-// - [Announcements](#announcements)
-// - [Upcoming Events](#upcoming-events)
-// - [Ongoing Initiatives](#ongoing-initiatives)
 
 export const query = graphql`
   query NewsletterIssue($id: String) {

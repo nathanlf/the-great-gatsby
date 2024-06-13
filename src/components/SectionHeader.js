@@ -1,5 +1,5 @@
 import React from 'react'
-import { blueHeader } from "../styles/newsletters.css"
+import { blueHeader } from "../styles/newsletters.module.css"
 let slugify = require('slugify')
 
 

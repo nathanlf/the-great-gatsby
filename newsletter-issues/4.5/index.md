@@ -148,7 +148,7 @@ upcoming events at RENCI and beyond.*
 # DEIA
 
 - <span class="mark">**Save the date for the next webinar** sponsored by
-  NIH’s Office of Scientific Diversity**:** [<u>How Are Institutions
+  NIH’s Office of Scientific Diversity: [<u>How Are Institutions
   Transformed to Foster Cultures of Inclusive
   Excellence?</u>](https://diversity.nih.gov/disseminate/swd-seminar-series/how-are-institutions-transformed-foster-cultures-inclusive?utm_medium=Email&utm_source=GovDelivery&utm_campaign=SWDSS&utm_content=March_2024_SWDSS_Post_GovDelivery)
   on June 20 at 1 pm ET.</span>
@@ -160,8 +160,7 @@ upcoming events at RENCI and beyond.*
     Diversity</u>](https://www.edi.nih.gov/)</span>
 
   - <span class="mark">NSF [<u>Office of Diversity, Equity, and
-    Inclusion</u>](https://www.nsf.gov/od/oecr/diversity.jsp)**  
-    **</span>
+    Inclusion</u>](https://www.nsf.gov/od/oecr/diversity.jsp)</span>
 
 - **<span class="mark">UNC DEI defunding in the news</span>**
 
