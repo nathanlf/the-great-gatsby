@@ -6,17 +6,11 @@ blurb: "The May edition of the RENCI Internal Newsletter includes highlights
 and recordings from project events, news from ACIS and Finance,
 opportunities to apply for awards and submit papers for conferences, and
 upcoming events at RENCI and beyond."
+cover_image:
+  path: "../images/4.5.png"
+  caption: "Pictured: Attendees posing at the hybrid Gene Ontology Consortium
+    Meeting. Photo credit: Michi LaCorte."
 ---
-
-![Volume 4 Issue 5 Cover Image]('./media/image11.png')
-
-***Pictured:** Attendees posing at the hybrid Gene Ontology Consortium
-Meeting. Photo credit: Michi LaCorte.*
-
-*The May edition of the RENCI Internal Newsletter includes highlights
-and recordings from project events, news from ACIS and Finance,
-opportunities to apply for awards and submit papers for conferences, and
-upcoming events at RENCI and beyond.*
 
 # Notes From OOD
 

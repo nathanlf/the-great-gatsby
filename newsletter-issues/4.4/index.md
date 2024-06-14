@@ -6,17 +6,11 @@ blurb: "The April edition of the RENCI Internal Newsletter includes new
 resources from the Office of the Director; recaps and recordings from
 recent project and service events; updates from the ACIS, Finance, and
 Dashboard teams, and educational opportunities from the DEIA team."
+cover_image:
+  path: "../images/4.4.png"
+  caption: "Pictured: Attendees listen to a session during the South Big Data
+    Hub Partnership Forum in April."
 ---
-
-![Volume 4 Issue 4 Cover Image]("./media/image4.png")
-
-***Pictured:** Attendees listen to a session during the South Big Data
-Hub Partnership Forum in April.*
-
-*The April edition of the RENCI Internal Newsletter includes new
-resources from the Office of the Director; recaps and recordings from
-recent project and service events; updates from the ACIS, Finance, and
-Dashboard teams, and educational opportunities from the DEIA team.*
 
 # Notes From OOD
 

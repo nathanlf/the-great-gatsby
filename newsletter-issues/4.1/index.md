@@ -6,17 +6,11 @@ blurb: "The January edition of the RENCI Internal Newsletter includes important
 messages from ACIS and Finance, new features and requests from the
 Dashboard group, opportunities to participate in hackathons and
 competitions, and upcoming events hosted by RENCI teams."
+cover_image:
+  path: "../images/4.1.png"
+  caption: "Pictured: The Communications Team working on a project for RENCI’s
+    20th Anniversary."
 ---
-
-![Volume 4 Issue 1 Cover Image]('./media/image4.png')
-
-***Pictured:** The Communications Team working on a project for RENCI’s
-20th Anniversary.*
-
-*The January edition of the RENCI Internal Newsletter includes important
-messages from ACIS and Finance, new features and requests from the
-Dashboard group, opportunities to participate in hackathons and
-competitions, and upcoming events hosted by RENCI teams.*
 
 # Notes From OOD
 

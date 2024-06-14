@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactMarkdown from 'react-markdown'
 import SectionHeader from './SectionHeader'
+import { StaticImage } from 'gatsby-plugin-image'
 
 export const Markdown = ({ src }) => {
     // const componentMap = useMemo(() => ({
@@ -13,8 +14,7 @@ export const Markdown = ({ src }) => {
         <ReactMarkdown
             children={ src }
             components={{
-                h1: ({ node, children, ...props }) => <SectionHeader title={ children }/>,
-                u: ({ node, children, ...props }) => <ins { ...props }>{ children }</ins>
+                h1: ({ node, children, ...props }) => <SectionHeader title={ children }/>
             }}
         />
     )
