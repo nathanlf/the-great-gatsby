@@ -8,7 +8,7 @@ Dashboard group, opportunities to participate in hackathons and
 competitions, and upcoming events hosted by RENCI teams."
 ---
 
-![Volume 4 Issue 1 Cover Image](./media/image4.png)
+![Volume 4 Issue 1 Cover Image]('./media/image4.png')
 
 ***Pictured:** The Communications Team working on a project for RENCI’s
 20th Anniversary.*
@@ -30,8 +30,8 @@ competitions, and upcoming events hosted by RENCI teams.*
   and we are curious about your feedback. So, here’s to 2024!
 
 - **2024 marks RENCI’s 20th Anniversary!** If you are interested in
-  helping develop various celebrations, email [<u>Jayasree</u>
-  <u>Jaganatha</u>](mailto:jayasree@renci.org).
+  helping develop various celebrations, email [Jayasree
+  Jaganatha](mailto:jayasree@renci.org).
 
 # Projects, Funding, and Awards
 
@@ -56,31 +56,31 @@ competitions, and upcoming events hosted by RENCI teams.*
   are, why we have to make them, and if they *do* affect you, continue
   reading.
 
-  - **<u>What do these email changes mean to me?</u>** Short answer:
+  - **What do these email changes mean to me?** Short answer:
     probably nothing. For most RENCI email use-cases, nothing will
     change, including how you send and receive emails. This includes
     system generated emails from Sterling or Hatteras, emails from
     VMware-hosted Virtual Machines, and email from your RENCI Outlook
     account.
 
-  - **<u>What is affected?</u>** These changes *might* affect sending
+  - **What is affected?** These changes *might* affect sending
     emails from outside RENCI’s data centers using an email address
     formatted as
-    [<u>something@renci.org</u>](mailto:something@renci.org).
+    [something@renci.org](mailto:something@renci.org).
 
     - For example, the RENCI Communications team uses Mailchimp to send
       RENCI emails. Because these emails are sender formatted as
-      [<u>jdoe@renci.org</u>](mailto:jdoe@renci.org), ACIS needs to
+      [jdoe@renci.org](mailto:jdoe@renci.org), ACIS needs to
       configure the domain so Mailchimp is an approved sender.
 
     - Note: This configuration only needs to happen when using services
       that send in the specific format
-      [<u>email@renci.org</u>](mailto:email@renci.org). If a service,
+      [email@renci.org](mailto:email@renci.org). If a service,
       like Monday.com, sends a message formatted as “Monday.com on
-      behalf of [<u>jdoe@renci.org</u>](mailto:jdoe@renci.org),” this
+      behalf of [jdoe@renci.org](mailto:jdoe@renci.org),” this
       service does **not** need to be configured.
 
-  - **<u>Maintaining an Approved Sender List?</u>** Starting in February
+  - **Maintaining an Approved Sender List?** Starting in February
     2024, major internet providers, such as Google and Yahoo, will
     require senders to their users have properly configured SPF, DKIM,
     and DMARC - three technologies used to create a framework of
@@ -89,9 +89,9 @@ competitions, and upcoming events hosted by RENCI teams.*
     their users, we had to make sure our email configuration was
     correct.
 
-  - **<u>Questions?</u>** If you have questions about these changes or
+  - **Questions?** If you have questions about these changes or
     have been using an external email service to send RENCI emails, send
-    a ticket to [<u>help@renci.org</u>](mailto:help@renci.org) - we are
+    a ticket to [help@renci.org](mailto:help@renci.org) - we are
     happy to answer your questions and address your issue.
 
 # Finance Messages
@@ -116,7 +116,7 @@ competitions, and upcoming events hosted by RENCI teams.*
   Travel and assistance with booking travel will still be provided by
   World Travel, Inc. The Designated Agent Team can be reached Monday
   through Friday from 8 a.m. to 8 p.m. EST at 877-602-4950 or
-  [<u>uncch_travel@worldtravelinc.com</u>](mailto:uncch_travel@worldtravelinc.com).
+  [uncch_travel@worldtravelinc.com](mailto:uncch_travel@worldtravelinc.com).
 
 - **Travel Request Naming Convention.** When submitting a Concur Travel
   Request, the Finance Office would like to request that effective
@@ -137,7 +137,7 @@ competitions, and upcoming events hosted by RENCI teams.*
   the Switchboard Homepage! Instead of navigating the Switchboard
   through the left navigation bar, we simplified the user experience by
   creating a homepage. Check it out by visiting
-  [<u>dashboard.renci.org</u>](http://dashboard.renci.org).
+  [dashboard.renci.org](http://dashboard.renci.org).
 
   - As a reminder, the Switchboard provides a one-stop shop for staff to
     find information, and anyone at RENCI can create pages.
@@ -153,26 +153,26 @@ competitions, and upcoming events hosted by RENCI teams.*
 
 # Diversity, Equity, and Inclusion
 
-- **<span class="mark">Do you have ideas for future DEI activities at
-  RENCI?</span>**
+- **Do you have ideas for future DEI activities at
+  RENCI?**
 
-  - <span class="mark">As always, please email
-    [<u>dei@renci.org</u>](mailto:dei@renci.org) to pass along ideas for
+  - As always, please email
+    [dei@renci.org](mailto:dei@renci.org) to pass along ideas for
     future DivE In Sessions or for questions about the goals or
-    structure of DEI at RENCI.</span>
+    structure of DEI at RENCI.
 
 # Proposals
 
-- <span class="mark">**FARR mini research opportunities for advancing
+- **FARR mini research opportunities for advancing
   AI-readiness in earth sciences — Applications due February 21.** The
   FARR (FAIR in ML, AI-readiness and Reproducibility) Research
   Coordination Network is supporting efforts to increase AI-readiness in
   earth sciences communities. As one aspect of its activities, FARR is
   inviting proposals for focused, limited-term efforts to advance some
   aspect of AI-readiness in an earth sciences domain. Learn more
-  [<u>here</u>](https://www.farr-rcn.org/get-involved/research-opportunities).</span>
+  [here](https://www.farr-rcn.org/get-involved/research-opportunities).
 
-- <span class="mark">**Mid-scale Research Infrastructure Incubators and
+- **Mid-scale Research Infrastructure Incubators and
   Conferences for STEM Education Research with a Focus on Education
   Equity — Proposals due March 14.** The National Science Foundation’s
   Directorate for STEM Education notifies the community of the
@@ -190,36 +190,36 @@ competitions, and upcoming events hosted by RENCI teams.*
   initiative is designed to support research capability implementations
   with total project costs between $4M and $100M. The initiative also
   supports future mid-scale RI design. Learn more
-  [<u>here</u>](https://www.nsf.gov/pubs/2024/nsf24027/nsf24027.jsp).</span>
+  [here](https://www.nsf.gov/pubs/2024/nsf24027/nsf24027.jsp).
 
-- <span class="mark">**RENCI Proposal Development Working Group** is
+- **RENCI Proposal Development Working Group** is
   developing resources and tools for NIH- and NSF-sponsored proposals.
   Check out this template and draft instructions for working through the
-  NIH proposal process:</span>
+  NIH proposal process:
 
-  - [<span class="mark"><u>NIH Proposal Development
-    Template</u></span>](https://renci-teams.monday.com/boards/4690838121)
+  - [NIH Proposal Development
+    Template](https://renci-teams.monday.com/boards/4690838121)
 
-  - [<span class="mark"><u>Draft: Instructions for using the NIH
+  - [Draft: Instructions for using the NIH
     Proposal Development
-    Template</u></span>](https://docs.google.com/document/d/1bv4e8AaIaVEr3pRXFD1gdsyhzc6ZeMKnm-pbq26fbv0/edit)
+    Template](https://docs.google.com/document/d/1bv4e8AaIaVEr3pRXFD1gdsyhzc6ZeMKnm-pbq26fbv0/edit)
 
-> <span class="mark">  
+>   
 > As always, comments and questions are welcome. Contact your favorite
-> PM (Vicki, Chelsea, Ari, or Paul) with any questions.</span>
+> PM (Vicki, Chelsea, Ari, or Paul) with any questions.
 
 # Professional Development
 
-- <span class="mark">**Sign up to be a Pearl Hacks mentor — February
+- **Sign up to be a Pearl Hacks mentor — February
   24 - 25.** RENCI is sponsoring Pearl Hacks, a hackathon for women and
   gender non-conforming individuals in tech, catering to first-time
   hackers looking for a supportive environment to explore technology.
   We’re seeking mentors to help out at the event and represent RENCI at
   the event. If you’re interested in mentoring, please reach out to
-  [<u>Amanda Miller</u>](mailto:amiller@renci.org). Learn more
-  [<u>here</u>](https://pearlhacks.com/).</span>
+  [Amanda Miller](mailto:amiller@renci.org). Learn more
+  [here](https://pearlhacks.com/).
 
-- <span class="mark">**Tools Competition: Building an Adaptive and
+- **Tools Competition: Building an Adaptive and
   Competitive Workforce — Abstracts due February 26.** The Defense
   Advanced Research Projects Agency (DARPA)’s Building an Adaptive &
   Competitive Workforce track seeks tools that support adult learners in
@@ -229,9 +229,9 @@ competitions, and upcoming events hosted by RENCI teams.*
   computational methods to help adults upskill and reskill in the
   complex subjects required for the continuously advancing 21st-century
   economy. Learn more
-  [<u>here</u>](https://tools-competition.org/workforce/).</span>
+  [here](https://tools-competition.org/workforce/).
 
-- <span class="mark">**Request for Information: Researcher and Educator
+- **Request for Information: Researcher and Educator
   Use Cases for the National AI Research Resource — Submissions due
   March 8.** The National Artificial Intelligence Research Resource
   (NAIRR) is a concept for a shared national research infrastructure to
@@ -243,19 +243,19 @@ competitions, and upcoming events hosted by RENCI teams.*
   identify current and anticipated challenges and barriers that
   researchers and educators may face in accessing and using AI resources
   and tools for their activities. Learn more
-  [<u>here</u>](https://idaorg.gov1.qualtrics.com/jfe/form/SV_cRMnkUFJoXs7UfI).</span>
+  [here](https://idaorg.gov1.qualtrics.com/jfe/form/SV_cRMnkUFJoXs7UfI).
 
 # Announcements
 
 - **STAR Program Deadlines.** If you are interested in having a student
-  join your team for Summer 2024, please fill out the [<u>Staff
+  join your team for Summer 2024, please fill out the [Staff
   Internship
-  Request</u>](https://forms.monday.com/forms/1d34e2e1f3f46f6ec024948578a249c7?r=use1)
-  Form, or view pending requests on the [<u>Monday.com RENCI Internship
-  board</u>](https://renci-teams.monday.com/boards/2199720087/views/47669702).
+  Request](https://forms.monday.com/forms/1d34e2e1f3f46f6ec024948578a249c7?r=use1)
+  Form, or view pending requests on the [Monday.com RENCI Internship
+  board](https://renci-teams.monday.com/boards/2199720087/views/47669702).
   Additionally, if you would like to extend your student’s STARship,
-  please submit a [<u>Student Extension
-  Form</u>](https://wkf.ms/3MlK2Ps) as soon as possible.
+  please submit a [Student Extension
+  Form](https://wkf.ms/3MlK2Ps) as soon as possible.
 
 - **Welcome new RENCI staff members:**
 
@@ -276,7 +276,7 @@ competitions, and upcoming events hosted by RENCI teams.*
 
 # Upcoming Events
 
-- <span class="mark">**TRiRODS: pam_interactive iRODS Authentication
+- **TRiRODS: pam_interactive iRODS Authentication
   Plugin and OIDC — February 14 at 4 PM ET.** The iRODS Consortium has
   been conducting its Authentication Working Group for several years.
   The product of the working group has been a new client-driven
@@ -285,17 +285,17 @@ competitions, and upcoming events hosted by RENCI teams.*
   PAM for authentication with iRODS. This talk will demonstrate an OIDC
   flow implemented by SURF using the new pam_interactive plugin and give
   some updates on the state of the project. Learn more
-  [<u>here</u>](https://irods.org/trirods/).</span>
+  [here](https://irods.org/trirods/).
 
-- <span class="mark">**Data Matters: Spring Ahead — March 11 - 15.**
+- **Data Matters: Spring Ahead — March 11 - 15.**
   Data Matters: Spring Ahead is a week-long series of one and two-day
   courses aimed at students and professionals in business, research, and
   government. The short course series is sponsored by the Odum Institute
   for Research in Social Science at UNC-Chapel Hill, the National
   Consortium for Data Science, and RENCI. Learn more
-  [<u>here</u>](https://datamatters.org/).</span>
+  [here](https://datamatters.org/).
 
-- <span class="mark">**iRODS User Group Meeting 2024 | Amsterdam, NL —
+- **iRODS User Group Meeting 2024 | Amsterdam, NL —
   May 28 - 31.** The 16th Annual iRODS User Group Meeting is your chance
   to meet iRODS users, Consortium members, and staff to discuss
   iRODS-enabled applications and discoveries, technologies powered by
@@ -305,30 +305,30 @@ competitions, and upcoming events hosted by RENCI teams.*
   demonstrations, and open discussions about requested iRODS features.
   We anticipate an audience of 150 participants representing dozens of
   academic, government, and commercial institutions. Learn more
-  [<u>here</u>](https://irods.org/ugm2024/).</span>
+  [here](https://irods.org/ugm2024/).
 
 # Ongoing Initiatives
 
 - **The RENCI Tools Evaluation Team is looking for new members!**
 
   - You can learn more about what this team does
-    [<u>here</u>](https://docs.google.com/document/d/1TXzJuHXtLweJoMP2upFjv1KIUOTeMMx0F6z_8saSiek/edit?pli=1#).
+    [here](https://docs.google.com/document/d/1TXzJuHXtLweJoMP2upFjv1KIUOTeMMx0F6z_8saSiek/edit?pli=1#).
 
   - Interested in joining? Contact
-    [<u>coordinators@renci.org</u>](mailto:coordinators@renci.org)
+    [coordinators@renci.org](mailto:coordinators@renci.org)
 
 - **Photos Folder.** The Communications Team created a collaborative
   photos folder. Please add photos of fun moments around the office,
   team outings, and industry events hosted or attended by RENCI team
   members. These photos are for internal use only. Access the folder
-  [<u>here</u>](https://drive.google.com/drive/folders/1Um9k78u-TpTdq8DI18e-xaTPayR_pxcH?usp=sharing).
+  [here](https://drive.google.com/drive/folders/1Um9k78u-TpTdq8DI18e-xaTPayR_pxcH?usp=sharing).
 
 - **The RENCI Learning Working Group is looking for folks to present
   during the monthly Lunch & Learn Series.**
 
   - If you are interested in presenting a topic to others at RENCI,
-    please fill out [<u>this
-    form</u>](https://forms.gle/3a4rs28H7Ti7QMoL7) and a member of the
+    please fill out [this
+    form](https://forms.gle/3a4rs28H7Ti7QMoL7) and a member of the
     Learning WG will contact you to schedule your topic in a future
     session.
 
@@ -337,53 +337,53 @@ competitions, and upcoming events hosted by RENCI teams.*
   - The STAR Team meets every Monday at 12 PM ET to discuss new ideas
     for the program, including ways to help students network with each
     other and RENCI staff, promote the program, and more. Want to join?
-    Contact [<u>Bryttany Todd</u>](mailto:btodd@renci.org).
+    Contact [Bryttany Todd](mailto:btodd@renci.org).
 
   - If a student reaches out regarding RENCI internship availability,
-    please redirect them using our [<u>Internship Email Reply
-    Template</u>](https://docs.google.com/document/d/1gMVyADTmHhqmT10ZJ1937eonk33B5Ayd83BONJb4O_M/edit?usp=sharing).
+    please redirect them using our [Internship Email Reply
+    Template](https://docs.google.com/document/d/1gMVyADTmHhqmT10ZJ1937eonk33B5Ayd83BONJb4O_M/edit?usp=sharing).
 
   - If you are interested in creating a STAR position, please fill out
-    the [<u>Staff Internship
-    Request</u>](https://forms.monday.com/forms/1d34e2e1f3f46f6ec024948578a249c7?r=use1)
+    the [Staff Internship
+    Request](https://forms.monday.com/forms/1d34e2e1f3f46f6ec024948578a249c7?r=use1)
     Form. If you know a student interested in interning at RENCI in the
-    spring, send them the [<u>Student Internship Interest
-    Form</u>](https://forms.monday.com/forms/19e5f087ffb7f047109f4741b11c366a?r=use1).
+    spring, send them the [Student Internship Interest
+    Form](https://forms.monday.com/forms/19e5f087ffb7f047109f4741b11c366a?r=use1).
 
   - Is your student’s internship ending? Make sure they fill out the
-    [<u>Exit Survey</u>](https://forms.gle/qVWAriiZCz7G3Znj8).
+    [Exit Survey](https://forms.gle/qVWAriiZCz7G3Znj8).
 
   - Would you like to extend a current student’s internship to the
-    spring? Fill out the [<u>Internship Extension
-    Form</u>](https://forms.gle/xYNY9PSVdby6EXnC7).
+    spring? Fill out the [Internship Extension
+    Form](https://forms.gle/xYNY9PSVdby6EXnC7).
 
-- **RENCI Communications & Outreach Request Form**. The [<u>RENCI
+- **RENCI Communications & Outreach Request Form**. The [RENCI
   Communications & Outreach Request
-  Form</u>](https://bit.ly/Comms_Request_Form) replaces sending Comms
-  service requests to [<u>comms@renci.org</u>](mailto:comms@renci.org).
+  Form](https://bit.ly/Comms_Request_Form) replaces sending Comms
+  service requests to [comms@renci.org](mailto:comms@renci.org).
 
-  - View our [<u>FAQ
-    document</u>](https://docs.google.com/document/d/142IjShTbyyO4vjm9SEMCNiaJoXI9Pf5RntFUdWXYnFw/edit?usp=sharing)
+  - View our [FAQ
+    document](https://docs.google.com/document/d/142IjShTbyyO4vjm9SEMCNiaJoXI9Pf5RntFUdWXYnFw/edit?usp=sharing)
     for help. This form includes a sample filled-out form; please feel
     free to add new questions, and we will periodically review and
     answer them.
 
-  - The comms email ([<u>comms@renci.org</u>](mailto:comms@renci.org))
+  - The comms email ([comms@renci.org](mailto:comms@renci.org))
     is still appropriate for general inquiries, but the form is for
     official Comms services requests.
 
 - **Coordination Team Meeting Support Request.** If you would like to
   request coordination assistance, please fill out The Coordination Team
   Request
-  [<u>form</u>](https://forms.monday.com/forms/c37c7167630fbacf64d4286585786727?r=use1).
+  [form](https://forms.monday.com/forms/c37c7167630fbacf64d4286585786727?r=use1).
   We automatically notify the Finance and ACIS departments, and they
   will reach out if they need any additional information. Please email
-  [<u>coordinators@renci.org</u>](mailto:coordinators@renci.org) if you
+  [coordinators@renci.org](mailto:coordinators@renci.org) if you
   have any questions.
 
 - **Event & Meeting Coordination Request.** If you would like to request
   event planning or execution assistance, please fill out The Event &
   Meeting Coordination Request
-  [<u>form</u>](https://forms.monday.com/forms/00626bb320afe50862fb84790d76faa6?r=use1).
-  Please email [<u>cdavis@renci.org</u>](mailto:cdavis@renci.org) if you
+  [form](https://forms.monday.com/forms/00626bb320afe50862fb84790d76faa6?r=use1).
+  Please email [cdavis@renci.org](mailto:cdavis@renci.org) if you
   have any questions.
