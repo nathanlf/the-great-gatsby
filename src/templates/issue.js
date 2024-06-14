@@ -7,7 +7,7 @@ import { Markdown } from "../components/Markdown"
 
 export default function NewsletterIssue({ data }) {
   const { title, date } = data.markdownRemark.frontmatter
-  const { html, htmlAst } = data.markdownRemark;
+  const { rawMarkdownBody, htmlAst } = data.markdownRemark;
   
   // loop through top level items in htmlAst to identify headings
   //    - need to get the heading name and heading URL path (i.e. "Notes from OOD" and "#notes-from-ood") to link and display
@@ -32,7 +32,7 @@ export default function NewsletterIssue({ data }) {
       <h3>{ date }</h3>
       <TableOfContents headers={ headers } />
 
-      <Markdown src={html} />
+      <Markdown src = {rawMarkdownBody} />
       
       {/* <section dangerouslySetInnerHTML={{ __html: html }} itemProp="articleBody" /> */}
     </Layout>
@@ -46,7 +46,7 @@ export const query = graphql`
         title
         date(formatString: "MMMM, YYYY")
       }
-      html
+      rawMarkdownBody
       htmlAst
     }
   }

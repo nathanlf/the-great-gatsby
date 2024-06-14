@@ -8,7 +8,7 @@ Dashboard group, opportunities to participate in hackathons and
 competitions, and upcoming events hosted by RENCI teams."
 ---
 
-<img src="./media/image4.png" style="width:6.5in;height:3.25in" />
+![Volume 4 Issue 1 Cover Image](./media/image4.png)
 
 ***Pictured:** The Communications Team working on a project for RENCI’s
 20th Anniversary.*
@@ -17,8 +17,6 @@ competitions, and upcoming events hosted by RENCI teams."
 messages from ACIS and Finance, new features and requests from the
 Dashboard group, opportunities to participate in hackathons and
 competitions, and upcoming events hosted by RENCI teams.*
-
-<img src="./media/image2.png" style="width:6.5in;height:0.88889in" />
 
 # Notes From OOD
 
@@ -35,8 +33,6 @@ competitions, and upcoming events hosted by RENCI teams.*
   helping develop various celebrations, email [<u>Jayasree</u>
   <u>Jaganatha</u>](mailto:jayasree@renci.org).
 
-<img src="./media/image1.png" style="width:6.5in;height:0.88889in" />
-
 # Projects, Funding, and Awards
 
 - **iRODS Releases**. Consider upgrading your existing deployments.
@@ -52,8 +48,6 @@ competitions, and upcoming events hosted by RENCI teams.*
 
   - **Congratulations to Stan Ahalt,** as the ICEES award received
     additional funding of $858,105.
-
-<img src="./media/image12.png" style="width:6.5in;height:0.88889in" />
 
 # ACIS Messages
 
@@ -100,8 +94,6 @@ competitions, and upcoming events hosted by RENCI teams.*
     a ticket to [<u>help@renci.org</u>](mailto:help@renci.org) - we are
     happy to answer your questions and address your issue.
 
-<img src="./media/image9.png" style="width:6.5in;height:0.88889in" />
-
 # Finance Messages
 
 - **Mileage Rates.** Effective January 1, 2023, the Internal Revenue
@@ -139,8 +131,6 @@ competitions, and upcoming events hosted by RENCI teams.*
   ensure that you are working with the Finance Office well in advance of
   any award changes that require NIH approval.
 
-<img src="./media/image8.png" style="width:6.5in;height:0.88889in" />
-
 # Dashboard Updates
 
 - **Switchboard Homepage.** The Dashboard team is excited to announce
@@ -161,9 +151,6 @@ competitions, and upcoming events hosted by RENCI teams.*
   profile! If you are eligible to become (or are) a PI/co-PI, please
   list this information in your profile.
 
-<img src="./media/image5.png" style="width:6.5in;height:0.88889in" /><span class="mark">
-</span>
-
 # Diversity, Equity, and Inclusion
 
 - **<span class="mark">Do you have ideas for future DEI activities at
@@ -173,9 +160,6 @@ competitions, and upcoming events hosted by RENCI teams.*
     [<u>dei@renci.org</u>](mailto:dei@renci.org) to pass along ideas for
     future DivE In Sessions or for questions about the goals or
     structure of DEI at RENCI.</span>
-
-<img src="./media/image3.png" style="width:6.5in;height:0.88889in" /><span class="mark">  
-</span>
 
 # Proposals
 
@@ -224,8 +208,6 @@ competitions, and upcoming events hosted by RENCI teams.*
 > As always, comments and questions are welcome. Contact your favorite
 > PM (Vicki, Chelsea, Ari, or Paul) with any questions.</span>
 
-<img src="./media/image10.png" style="width:6.5in;height:0.88889in" />
-
 # Professional Development
 
 - <span class="mark">**Sign up to be a Pearl Hacks mentor — February
@@ -263,8 +245,6 @@ competitions, and upcoming events hosted by RENCI teams.*
   and tools for their activities. Learn more
   [<u>here</u>](https://idaorg.gov1.qualtrics.com/jfe/form/SV_cRMnkUFJoXs7UfI).</span>
 
-<img src="./media/image7.png" style="width:6.5in;height:0.88889in" />
-
 # Announcements
 
 - **STAR Program Deadlines.** If you are interested in having a student
@@ -293,8 +273,6 @@ competitions, and upcoming events hosted by RENCI teams.*
 
   - **Soumyashree Kar:** Soumya Kar is joining the Analytics group and
     will be working on the NSF Imageomics project.
-
-<img src="./media/image11.png" style="width:6.5in;height:0.88889in" />
 
 # Upcoming Events
 
@@ -328,8 +306,6 @@ competitions, and upcoming events hosted by RENCI teams.*
   We anticipate an audience of 150 participants representing dozens of
   academic, government, and commercial institutions. Learn more
   [<u>here</u>](https://irods.org/ugm2024/).</span>
-
-<img src="./media/image6.png" style="width:6.5in;height:0.88889in" />
 
 # Ongoing Initiatives
 

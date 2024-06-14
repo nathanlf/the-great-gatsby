@@ -2,10 +2,10 @@ import React from 'react'
 import ReactMarkdown from 'react-markdown'
 import SectionHeader from './SectionHeader'
 
-export const Markdown = ({ src, title }) => {
+export const Markdown = ({ src }) => {
     // const componentMap = useMemo(() => ({
-    //     h1: function SectionHeader({ title }) {
-    //       return <SectionHeader title={title}/>
+    //     h1: function SectionHeader({ name }) {
+    //       return <SectionHeader title={ name }/>
     //     },
     //   }), [])
   
@@ -13,7 +13,8 @@ export const Markdown = ({ src, title }) => {
         <ReactMarkdown
             children={ src }
             components={{
-                h1: () => <SectionHeader title={title}/>
+                h1: ({ node, children, ...props }) => <SectionHeader title={ children }/>,
+                u: ({ node, children, ...props }) => <ins { ...props }>{ children }</ins>
             }}
         />
     )
