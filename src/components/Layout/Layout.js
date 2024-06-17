@@ -5,7 +5,7 @@ import {
     container,
     heading,
     footer
-  } from "../styles/layout.module.css"
+  } from "./layout.module.css"
 
 const Layout = ({ pageTitle, children }) => {
     const data = useStaticQuery(graphql`

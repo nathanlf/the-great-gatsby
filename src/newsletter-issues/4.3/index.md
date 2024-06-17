@@ -6,8 +6,8 @@ blurb: "The March edition of the RENCI Internal Newsletter includes information
 on our new office space policy, updates from the Finance, ACIS, and DEIA
 teams, ways to get involved with our service teams, various professional
 development opportunities, and upcoming events at RENCI."
-cover_image:
-  path: "../images/4.3.png"
+coverImage:
+  path: "cover-image.png"
   caption: "Pictured: Presenters from RENCI, UNC, NIH, and the EPA at the
     second Clinical and Environmental Health Data Workshop in February."
 ---

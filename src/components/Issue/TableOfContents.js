@@ -1,6 +1,6 @@
 import React from "react"
-import { toc } from "../styles/newsletters.module.css"
-let slugify = require('slugify')
+import { toc } from "./newsletters.module.css"
+import { createSlug } from '../../util/createSlug'
 
 
 const TableOfContents = ({ headers }) => {
@@ -8,10 +8,9 @@ const TableOfContents = ({ headers }) => {
         <div className={toc}>
             {
                 headers.map(header => {
-                    const slug = slugify(header, {lower: true})
                     return (
                         <div>
-                             <a href={ `#${ slug }` }>{ header }</a>
+                             <a href={ `#${ createSlug(header) }` }>{ header }</a>
                         </div>
                     )
                 })

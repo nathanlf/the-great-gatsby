@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { Link, graphql } from 'gatsby'
-import Layout from '../components/Layout'
-import Seo from '../components/Seo'
+import Layout from '../components/Layout/Layout'
+import Seo from '../components/Layout/Seo'
 
 
 const ArchivePage = ({ data }) => {

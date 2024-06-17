@@ -2,14 +2,15 @@
 title: "Internal Newsletter Volume 4, Issue 1"
 date: "2024-01"
 edition: "4.1"
-blurb: "The January edition of the RENCI Internal Newsletter includes important
-messages from ACIS and Finance, new features and requests from the
-Dashboard group, opportunities to participate in hackathons and
-competitions, and upcoming events hosted by RENCI teams."
-cover_image:
-  path: "../images/4.1.png"
-  caption: "Pictured: The Communications Team working on a project for RENCI’s
-    20th Anniversary."
+blurb: >
+  The January edition of the RENCI Internal Newsletter includes important
+  messages from ACIS and Finance, new features and requests from the
+  Dashboard group, opportunities to participate in hackathons and
+  competitions, and upcoming events hosted by RENCI teams.
+coverImage:
+  path: "cover-image.png"
+  caption: >
+    Pictured: The Communications Team working on a project for RENCI’s 20th Anniversary.
 ---
 
 # Notes From OOD

@@ -5,7 +5,7 @@ import {
     navLinks,
     navLinkText,
     siteTitle,
-} from "../styles/layout.module.css"
+} from "./layout.module.css"
 
 const Navbar = ( { title } ) => {
   return (
