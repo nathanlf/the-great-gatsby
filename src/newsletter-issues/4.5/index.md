@@ -30,16 +30,14 @@ coverImage:
 
 - **Congratulations on these new awards!**
 
-
 - **Suparna Goswami - A Strategy for HEAL Federated Data Ecosystem
   (continuation)**
-
 
 - **Project Highlights:**
 
   - **HEAL Stewards Webinar**
 
-    - The HEAL Stewards’ May 16 *Fresh FAIR* webinar, “Sharing Data in
+    - The HEAL Stewards’ May 16 _Fresh FAIR_ webinar, “Sharing Data in
       HEAL-compliant repositories: Requirements and Guidance,''
       encouraged investigator participation in the HEAL Data Ecosystem,
       reviewed HEAL-compliant data repositories, and showcased the new
@@ -66,9 +64,6 @@ coverImage:
       tool access, such as Jupyter notebooks, R, Python, and SAS Viya,
       among others. See previous webinars
       [here](https://www.youtube.com/@NIHRADxDataHub).
-      
-
-  
 
   - **NCDS DataBytes Webinar**
 
@@ -79,8 +74,6 @@ coverImage:
       these recommendations into the analytics lifecycle. Check out the
       recording
       [here](https://www.youtube.com/watch?v=IfvFyFUOsiE).
-
-
 
 - **iRODS presented at the Library of Congress in Washington, DC.** Kory
   Draughn represented RENCI and the iRODS Consortium in April. See the
@@ -152,8 +145,7 @@ coverImage:
 
   - [Opinion piece from the UNC System board
     chair: Why we’re refining our DEI
-    policy](https://www.newsobserver.com/opinion/article288520916.html#storylink=cpy)  
-    
+    policy](https://www.newsobserver.com/opinion/article288520916.html#storylink=cpy)
 
 - **Do you have ideas for future DEIA activities at
   RENCI?**
@@ -189,8 +181,7 @@ coverImage:
 
   - [Draft: Instructions for using the NIH
     Proposal Development
-    Template](https://docs.google.com/document/d/1bv4e8AaIaVEr3pRXFD1gdsyhzc6ZeMKnm-pbq26fbv0/edit)  
-    
+    Template](https://docs.google.com/document/d/1bv4e8AaIaVEr3pRXFD1gdsyhzc6ZeMKnm-pbq26fbv0/edit)
 
 - **The Proposal Development Working Group** is
   talking with RENCI section leaders to identify team members with past
@@ -290,8 +281,7 @@ coverImage:
   projects and the researchers actively studying them. Learn more
   [here](https://pretix.eu/wikimedia/wikiworkshop2024/).
 
-- **Data Matters Short-Course Series — August 5 -
-  9.** Data Matters™ is a week-long series of one and two-day courses
+- **Data Matters Short-Course Series — August 5 - 9.** Data Matters™ is a week-long series of one and two-day courses
   aimed at students and professionals in business, research, and
   government. The short course series is sponsored by the Odum Institute
   for Research in Social Science at UNC-Chapel Hill, the National
@@ -302,13 +292,12 @@ coverImage:
 
 - **Fresh FAIR Tutorial: Hands-on HEAL Data Sharing
   Requirement Guidance** - **June 20 at 1 PM ET. **Join us for
-  the first-ever *Fresh FAIR* tutorial for clarification on questions
+  the first-ever _Fresh FAIR_ tutorial for clarification on questions
   around HEAL data sharing requirements and how the HEAL Data Ecosystem
   support teams can help. Add questions on this [**EasyRetro
   board**](https://easyretro.io/publicboard/DMjA2iiPFHbrkTjvyzl6JYhz6q43/890f8047-924c-4aa9-b48f-bf3004417e0e)
   **([bit.ly/EasyRetro_Jun20](https://bit.ly/EasyRetro_Jun20))**
-  in preparation for the tutorial no later than **COB Thursday, June
-  13.** Register [here](https://bit.ly/HEALFreshFAIR_Jun20).
+  in preparation for the tutorial no later than **COB Thursday, June 13.** Register [here](https://bit.ly/HEALFreshFAIR_Jun20).
 
 - **ACTS Webinar: Leadership Considerations in
   Collaborative Team Science — June 13 at 12 PM ET.** Join us for our
@@ -316,8 +305,6 @@ coverImage:
   will discuss leadership in scientific collaborations. We'll hear from
   Dr. Carter and finish with a robust Q&A session. Register
   [here](https://renci.zoom.us/webinar/register/WN_BX8_iFwWT8Ouw9Wuemecvg).
-
-
 
 - **RADx Webinar: What's in the RADx Data Hub?
   Explore one of the largest NIH COVID data collections available to

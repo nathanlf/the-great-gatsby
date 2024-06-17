@@ -138,8 +138,7 @@ coverImage:
   than half of the Tar Heels on campus are women but that has not always
   been the case. Stroll through the UNC
   [website](https://www.unc.edu/story/womens-history-month-2024/)
-  to meet some trailblazing women from UNC history.  
-  
+  to meet some trailblazing women from UNC history.
 
 - **Do you have ideas for future DEIA activities at
   RENCI?**
@@ -168,14 +167,12 @@ coverImage:
     Proposal Development
     Template](https://docs.google.com/document/d/1bv4e8AaIaVEr3pRXFD1gdsyhzc6ZeMKnm-pbq26fbv0/edit)
 
->   
 > As always, comments and questions are welcome. Contact your favorite
 > PM (Vicki, Chelsea, Ari, or Paul) with any questions.
 
 # Professional Development
 
-- **POCTRN 2024 — Expressions of Interest due March
-  31.** The National Institute of Biomedical Imaging and
+- **POCTRN 2024 — Expressions of Interest due March 31.** The National Institute of Biomedical Imaging and
   Bioengineering’s (NIBIB) Point-of-Care Technology Research Network
   (POCTRN) is pleased to announce six new funding opportunities from its
   centers. Advance the development of your transformative point-of-care
@@ -237,8 +234,7 @@ coverImage:
   with their [website](http://research.unc.edu). Learn more
   [here](https://forms.office.com/pages/responsepage.aspx?id=T9WzWMkW00KvCB_KvQlWZrxC1UmpROVAsYZxXIjxTtVUOTdQQTUzMk9BT01RU0ZJNVhRSFRXMjJHWi4u).
 
-- **RENCI Wellness Challenge: RENCI 31 — Ends March
-  31.** The first RENCI Wellness Challenge for 2024 is here, and it is a
+- **RENCI Wellness Challenge: RENCI 31 — Ends March 31.** The first RENCI Wellness Challenge for 2024 is here, and it is a
   modification of the trending 75 Hard Challenge. Structured yet
   flexible, the RENCI 31 Challenge is a month-long dedication to
   reaching small goals in your day-to-day that add up to large
@@ -258,7 +254,7 @@ coverImage:
 - **RENCI’s Sustainability Team Celebrates Earth Day! Details coming
   soon!**
 
-> *“I speak for the trees, for the trees have no tongues!”*
+> _“I speak for the trees, for the trees have no tongues!”_
 >
 > Help RENCI’s Sustainability Team speak for the trees (and the rest of
 > the earth) this April by joining us in a celebration of Earth Day!
@@ -287,26 +283,26 @@ coverImage:
 > Panelists include:
 
 > - Stan Ahalt, PhD – Inaugural Dean for the [School
-  of Data Science and Society](https://datascience.unc.edu/), and
-  the Executive Advisor and Domain Scientist for Team Science at
-  RENCI
+>   of Data Science and Society](https://datascience.unc.edu/), and
+>   the Executive Advisor and Domain Scientist for Team Science at
+>   RENCI
 
 > - Hailey Brighton, PhD – Associate Director of Grants
-  and Programs, [Institute for Convergent
-  Sciences](https://convergent.unc.edu/)
+>   and Programs, [Institute for Convergent
+>   Sciences](https://convergent.unc.edu/)
 
 > - Brandy Farlow, MA – Research Proposal and
-  Documentation Specialist, [Renaissance Computing
-  Institute](https://renci.org/)
+>   Documentation Specialist, [Renaissance Computing
+>   Institute](https://renci.org/)
 
 > - Sherette Godfrey, PhD – Project Manager, [UNC
-  Lineberger Cancer Center Team
-  Science](https://unclineberger.org/research/team-science/resources/)
+>   Lineberger Cancer Center Team
+>   Science](https://unclineberger.org/research/team-science/resources/)
 
 > - Kaitlin S. Zalcikova, PhD – Program Manager, CTS
-  Research Program and Team Science, [NC
-  TraCS
-  Institute](https://tracs.unc.edu/index.php/services/team-science/acter)
+>   Research Program and Team Science, [NC
+>   TraCS
+>   Institute](https://tracs.unc.edu/index.php/services/team-science/acter)
 
 - **RENCI Social: Virtual Social – April 11 at 4 PM
   ET.** Take a break from work and join us for a fun virtual event
@@ -315,7 +311,6 @@ coverImage:
   form**](https://forms.gle/z1eJEzbNgJ1x1DeF9). We also welcome
   suggestions for future socials – [share your ideas
   here](https://forms.monday.com/forms/4f3074e1e32f420ad3a3793b29c990d1?r=use1).
-  
 
 - **DataBytes: Supporting AI Risk Management in the
   Analytics Lifecycle — April 30 at 3:30 PM ET.** The National Institute
@@ -345,8 +340,7 @@ coverImage:
   government, and commercial institutions. Learn more
   [here](https://irods.org/ugm2024/).
 
-- **Data Matters Short-Course Series — August 5 -
-  9.** Data Matters™ is a week-long series of one and two-day courses
+- **Data Matters Short-Course Series — August 5 - 9.** Data Matters™ is a week-long series of one and two-day courses
   aimed at students and professionals in business, research, and
   government. The short course series is sponsored by the Odum Institute
   for Research in Social Science at UNC-Chapel Hill, the National

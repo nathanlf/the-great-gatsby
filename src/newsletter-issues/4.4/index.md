@@ -26,11 +26,11 @@ coverImage:
     input through the simple survey. The All Hands meeting slides can be
     found
     [here](https://docs.google.com/presentation/d/1ztSVx6PHBPyrda6uvBrjISMLM_P2F1SiIDxQkF1HOW8/edit?usp=sharing).  
-    *The deadline for the **All Hands Format Survey** was extended to
+    _The deadline for the **All Hands Format Survey** was extended to
     COB on **Friday, May 10th**. Please provide feedback on our current
     quarterly meeting format and suggest ideas for future All Hands
     meetings
-    [here](https://docs.google.com/forms/d/1fUpbjrJetB0vSCBpDyOaZUxFzJJSW2Q0jCnMw9Slw2s/edit).*
+    [here](https://docs.google.com/forms/d/1fUpbjrJetB0vSCBpDyOaZUxFzJJSW2Q0jCnMw9Slw2s/edit)._
 
 - **Thank you** to all who keep RENCI a vibrant, active place.
 
@@ -81,7 +81,7 @@ coverImage:
     provide an Introduction to Understanding and Assessing Teamwork
     Processes.
 
-  - The HEAL Stewards’ April 18 *Fresh FAIR* webinar, Metadata 103:
+  - The HEAL Stewards’ April 18 _Fresh FAIR_ webinar, Metadata 103:
     Standardized Sharing for Reusability & Discovery, highlighted the
     transformative power of standardized metadata sharing, particularly
     variable-level metadata (VLMD), through real HEAL Data Ecosystem
@@ -147,8 +147,8 @@ suggestions for ways to enhance your user experience.
   University Office of Diversity, Equity, and Inclusion has occasional
   seminars to address workforce development issues. Several RENCI folks
   have participated in the seminar below and found it very interesting
-  and helpful.  
-    
+  and helpful.
+
   **Working Effectively Across Generations –** In this introductory
   session, participants examine their own generational traits, habits,
   and behaviors and identify inclusive strategies and tactics to foster
@@ -177,8 +177,8 @@ suggestions for ways to enhance your user experience.
     Diversity](https://www.edi.nih.gov/)
 
   - NSF [Office of Diversity, Equity, and
-    Inclusion](https://www.nsf.gov/od/oecr/diversity.jsp)**  
-    **
+    Inclusion](https://www.nsf.gov/od/oecr/diversity.jsp)\*\*  
+    \*\*
 
 - **Do you have ideas for future DEIA activities at
   RENCI?**
@@ -204,8 +204,7 @@ suggestions for ways to enhance your user experience.
 
   - [Draft: Instructions for using the NIH
     Proposal Development
-    Template](https://docs.google.com/document/d/1bv4e8AaIaVEr3pRXFD1gdsyhzc6ZeMKnm-pbq26fbv0/edit)  
-    
+    Template](https://docs.google.com/document/d/1bv4e8AaIaVEr3pRXFD1gdsyhzc6ZeMKnm-pbq26fbv0/edit)
 
 - **The Proposal Development Working Group** is
   talking with RENCI section leaders to identify team members with past
@@ -293,8 +292,7 @@ suggestions for ways to enhance your user experience.
   past experiences that helped them build the platform. Learn more
   [here](https://datascienceconsortium.org/event/databytes-using-genai-to-win-sttr-and-sbr-government-grants/).
 
-- **Data Matters Short-Course Series — August 5 -
-  9.** Data Matters™ is a week-long series of one and two-day courses
+- **Data Matters Short-Course Series — August 5 - 9.** Data Matters™ is a week-long series of one and two-day courses
   aimed at students and professionals in business, research, and
   government. The short course series is sponsored by the Odum Institute
   for Research in Social Science at UNC-Chapel Hill, the National

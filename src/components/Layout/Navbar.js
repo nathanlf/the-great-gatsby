@@ -1,36 +1,35 @@
-import React from 'react'
-import { Link } from 'gatsby'
-import {
-    navBar,
-    navLinks,
-    navLinkText,
-    siteTitle,
-} from "./layout.module.css"
+import React from "react";
+import { Link } from "gatsby";
+import { navBar, navLinks, navLinkText, siteTitle } from "./layout.module.css";
 
-const Navbar = ( { title } ) => {
+const Navbar = ({ title }) => {
   return (
     <nav className={navBar}>
-      <img src="/renci-logo.png" alt="RENCI Logo" style={{ maxWidth: '100%' }}/>
+      <img
+        src="/renci-logo.png"
+        alt="RENCI Logo"
+        style={{ maxWidth: "100%" }}
+      />
       <header className={siteTitle}>{title}</header>
       <div className={navLinks}>
         <Link to="/" className={navLinkText}>
-            Home
+          Home
         </Link>
         <Link to="/about" className={navLinkText}>
-            About
+          About
         </Link>
         <Link to="/archive" className={navLinkText}>
-            Archive
+          Archive
         </Link>
         <Link to="/archive/2024-05/4.5" className={navLinkText}>
-            Newest Edition
+          Newest Edition
         </Link>
         <Link to="/settings" className={navLinkText}>
-            Settings
+          Settings
         </Link>
       </div>
     </nav>
-  )
-}
+  );
+};
 
-export default Navbar
+export default Navbar;

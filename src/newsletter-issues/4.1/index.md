@@ -48,7 +48,7 @@ coverImage:
 
 - **Mail Routing**. As communicated earlier this month, RENCI **external
   email routing** is changing. If you are wondering what the changes
-  are, why we have to make them, and if they *do* affect you, continue
+  are, why we have to make them, and if they _do_ affect you, continue
   reading.
 
   - **What do these email changes mean to me?** Short answer:
@@ -58,7 +58,7 @@ coverImage:
     VMware-hosted Virtual Machines, and email from your RENCI Outlook
     account.
 
-  - **What is affected?** These changes *might* affect sending
+  - **What is affected?** These changes _might_ affect sending
     emails from outside RENCI’s data centers using an email address
     formatted as
     [something@renci.org](mailto:something@renci.org).
@@ -199,7 +199,6 @@ coverImage:
     Proposal Development
     Template](https://docs.google.com/document/d/1bv4e8AaIaVEr3pRXFD1gdsyhzc6ZeMKnm-pbq26fbv0/edit)
 
->   
 > As always, comments and questions are welcome. Contact your favorite
 > PM (Vicki, Chelsea, Ari, or Paul) with any questions.
 

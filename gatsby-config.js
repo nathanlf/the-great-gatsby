@@ -17,7 +17,7 @@ module.exports = {
       options: {
         name: `newsletter-issues`,
         path: `${__dirname}/src/newsletter-issues`,
-      }
+      },
     },
     {
       resolve: "gatsby-source-filesystem",
@@ -25,6 +25,6 @@ module.exports = {
         name: "images",
         path: `${__dirname}/src/newsletter-issues`,
       },
-    }
+    },
   ],
-}
+};
