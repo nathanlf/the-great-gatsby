@@ -1,5 +1,5 @@
-import * as React from 'react'
-import Layout from '../components/Layout'
+import * as React from "react";
+import Layout from "../components/Layout/Layout";
 
 const SettingsPage = () => {
   return (
@@ -8,14 +8,13 @@ const SettingsPage = () => {
       <p>Account Settings</p>
       <p>...</p>
     </Layout>
-  )
-}
+  );
+};
 
 export const Head = () => (
   <>
     <title>Settings</title>
   </>
-)
-  
+);
 
-export default SettingsPage
+export default SettingsPage;

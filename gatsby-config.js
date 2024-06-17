@@ -11,54 +11,20 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          `gatsby-remark-images-anywhere`,
-          {
-            resolve: `gatsby-remark-autolink-headers`,
-            options: {
-              offsetY: `100`,
-              className: `section-header`, // optional; set class for the anchor tags
-              elements: [`h1`, `h2`]
-            }
-          }
-        ],
-      },
-    },
+    `gatsby-transformer-remark`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `newsletter-issues`,
-        path: `${__dirname}/newsletter-issues`,
-      }
+        path: `${__dirname}/src/newsletter-issues`,
+      },
     },
     {
-      resolve: `gatsby-remark-images-anywhere`,
+      resolve: "gatsby-source-filesystem",
       options: {
-        /**
-         * @param {string} staticDir
-         * Root folder for images. For example,
-         * if your image path is `/assets/image.png`,
-         * your image is located in `static/assets/image.png`,
-         * then the staticDir is `static`.
-         * You can also point it to whichever else folder you have locally.
-         */
-        staticDir: `$(${__dirname}/newsletter-issues)`,
-    
-        /**
-         * @param {'lazy' | 'eager' | 'auto'} loading 
-         * Set the output markup's 'loading' attribute. Default: 'lazy'
-         */
-        loading: 'lazy',
-    
-        /**
-         * @param {'fluid' | 'fixed' | 'resize'} sharpMethod
-         * Default: 'fluid'.
-         */
-        sharpMethod: 'fluid',
-      }
+        name: "images",
+        path: `${__dirname}/src/newsletter-issues`,
+      },
     },
   ],
-}
+};
